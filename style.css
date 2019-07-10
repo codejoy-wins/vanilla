@@ -1,0 +1,10 @@
+.error{
+    color: red;
+}
+body{
+    background: linear-gradient(45deg,pink, blue);
+}
+#button{
+    padding: 2vw;
+    background-color: rgba(107, 107, 228, 0.808);
+}
